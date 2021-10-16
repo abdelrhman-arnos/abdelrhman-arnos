@@ -1,26 +1,16 @@
-<h1 align="center">Abdelrhman Arnos</h1>
+<h2>Hey there! I'm Abdelrhman Arnos. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<p align="center">
-  <b>Senior Software Engineer</b> <small>in Front-End</small>
-</p>
-
-<p align="center">I am passionate to read new things in programming and technology topics and sharing gained knowledge with my team, and obsessed with finding challenges to make the application more scalable and smarter. Always learning new skills and technologies to refine my skills and evolve myself.​</p>
+<p>I'm a senior software engineer in front-end, I passionate to read new things in programming and technology topics and sharing gained knowledge with my team, and obsessed with finding challenges to make the application more scalable and smarter. Always learning new skills and technologies to refine my skills and evolve myself.​</p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdelrhman-arnos&theme=nord&margin-w=10" alt="Github Profile Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdelrhman-arnos&theme=dark&margin-w=10" alt="Github Profile Trophy" />
 </div>
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhman-arnos&langs_count=8&layout=compact&text_color=white&bg_color=white)]
-
-  <div style="display: flex;">
-<a align="left" href="https://stackexchange.com/users/15322250"><img src="https://stackoverflow.com/users/flair/11054356.png?theme=dark" width="208" height="58" alt="profile for Abdelrhman Arnos on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Abdelrhman Arnos on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-  <div align="right">
-    <img alt="codewars badge" src="https://www.codewars.com/users/abdelrhman-arnos/badges/small" />
-    <img alt="hackerrank problem solving badge" width="100px" src="https://github.com/abdelrhman-arnos/abdelrhman-arnos/blob/main/hackerrank-problem-solving-badge.png" />
-  </div>
-</div>
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhman-arnos&langs_count=8&layout=compact&theme=dark) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman-arnos&theme=dark) |
+| --- | --- |
+| <img alt="stack overflow badge" src="https://stackoverflow.com/users/flair/11054356.png?theme=dark" /> ![Codewars](https://www.codewars.com/users/abdelrhman-arnos/badges/small) | <img alt="hackerrank problem solving badge" width="100px" src="https://github.com/abdelrhman-arnos/abdelrhman-arnos/blob/main/hackerrank-problem-solving-badge.png" /> |
 
 <p align="center">
   <a target="_blank">
