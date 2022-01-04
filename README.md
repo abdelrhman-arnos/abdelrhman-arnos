@@ -1,4 +1,4 @@
-<h2>Hey there! I'm Abdelrhman Arnos. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2>Hey there! I'm Abdelrhman Arnos. 👋</h2>
 
 <p>I'm a senior software engineer in front-end, I passionate to read new things in programming and technology topics and sharing gained knowledge with my team, and obsessed with finding challenges to make the application more scalable and smarter. Always learning new skills and technologies to refine my skills and evolve myself.​</p>
 
