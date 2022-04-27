@@ -10,7 +10,7 @@
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhman-arnos&langs_count=8&layout=compact&theme=dark) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman-arnos&theme=dark) |
 | --- | --- |
-| <img alt="stack overflow badge" src="https://stackoverflow.com/users/flair/11054356.png?theme=dark" /> ![Codewars](https://www.codewars.com/users/abdelrhman-arnos/badges/small) | <img alt="hackerrank problem solving badge" width="100px" src="https://github.com/abdelrhman-arnos/abdelrhman-arnos/blob/main/hackerrank-problem-solving-badge.png" /> |
+| <img alt="stack overflow badge" src="https://stackoverflow.com/users/flair/11054356.png?theme=dark" /> ![Codewars](https://www.codewars.com/users/abdelrhman-arnos/badges/small) | <a target="_blank" href="https://www.hackerrank.com/abdelrhman_arnos"><img alt="hackerrank problem solving badge" width="100px" src="https://github.com/abdelrhman-arnos/abdelrhman-arnos/blob/main/hackerrank-problem-solving-badge.png" /></a> |
 
 <p align="center">
   <a target="_blank">
