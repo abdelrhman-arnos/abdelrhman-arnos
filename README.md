@@ -1,6 +1,6 @@
 <h2>Hey there! I'm Abdelrhman Arnos. <img width="20" src="./Hi.gif" /></h2>
 
-<p>I'm a senior software engineer, I passionate to read new things in programming and technology topics and sharing gained knowledge with my team, and obsessed with finding challenges to make the application more scalable and smarter. Always learning new skills and technologies to refine my skills and evolve myself.​</p>
+<p>I'm a software engineer, I passionate to read new things in programming and technology topics and sharing gained knowledge with my team, and obsessed with finding challenges to make the application more scalable and smarter. Always learning new skills and technologies to refine my skills and evolve myself.​</p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdelrhman-arnos&theme=dark&margin-w=10&title=MultiLanguage,Commits,PullRequest,Repositories,Followers,Issues" alt="Github Profile Trophy" />
