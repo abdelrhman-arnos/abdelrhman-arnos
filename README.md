@@ -1,6 +1,6 @@
 <h2>Hey there! <img width="20" src="./Hi.gif" /></h2>
 
-<p>I am Abdelrhman Arnos, a software engineer technical lead with over six years of experience in web development. I have a strong command of JavaScript, TypeScript, React, Angular, PHP, Java, Laravel, Python, and Spring Boot, and have worked with various CI/CD tools.
+<p>I am Abdelrhman Arnos, a software engineer with over six years of experience in web development. I have a strong command of JavaScript, TypeScript, React, Angular, PHP, Java, Laravel, Python, and Spring Boot, and have worked with various CI/CD tools.
 
 As a technical lead, I have a proven track record of leading teams to deliver high-quality software products. I am passionate about my work and have a strong commitment to delivering results to the highest standard.
 
