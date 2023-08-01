@@ -1,10 +1,10 @@
 <h2>Hey there! <img width="20" src="./Hi.gif" /></h2>
 
-<p>I am Abdelrhman Arnos, a software engineer with over six years of experience in web development. I have a strong command of JavaScript, TypeScript, React, Angular, PHP, Java, Laravel, Python, and Spring Boot, and have worked with various CI/CD tools.
+<p>My name is Abdelrhman Arnos, and I am a lead software engineer with over six years of experience in web development. I possess extensive expertise in various areas of software development, including front-end frameworks, cloud platforms, programming languages, back-end frameworks, databases, CI/CD tools, monitoring, e-commerce, identity management, single-page applications, project management, version control, and caching.
 
-As a technical lead, I have a proven track record of leading teams to deliver high-quality software products. I am passionate about my work and have a strong commitment to delivering results to the highest standard.
+As a technical leader, I have consistently guided teams in producing top-quality software products. I am deeply passionate about my work and dedicated to achieving the highest standards in my results.
 
-In my free time, I enjoy exploring new technologies and staying up-to-date with the latest trends in the field.</p>
+Outside of work, I take pleasure in discovering new technologies and keeping abreast of the latest trends in the industry.</p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdelrhman-arnos&theme=dark&margin-w=10&title=MultiLanguage,Commits,PullRequest,Repositories,Followers,Issues" alt="Github Profile Trophy" />
