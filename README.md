@@ -1,10 +1,11 @@
 <h2>Hey there! <img width="20" src="./Hi.gif" /></h2>
 
-<p>My name is Abdelrhman Arnos, and I am a lead software engineer with over six years of experience in web development. I possess extensive expertise in various areas of software development, including front-end frameworks, cloud platforms, programming languages, back-end frameworks, databases, CI/CD tools, monitoring, e-commerce, identity management, single-page applications, project management, version control, and caching.
+<p>My name is Abdelrhman Arnos, a technically proficient technical lead, skilled software engineer, and an individual with a keen interest in artificial intelligence.
+With over 8 years of experience in the field of web development, I have amassed a wealth of knowledge and expertise in various facets of software development. My journey in this industry has been marked by consistent leadership, guiding teams towards the creation of top-tier software products that meet and exceed expectations.
 
-As a technical leader, I have consistently guided teams in producing top-quality software products. I am deeply passionate about my work and dedicated to achieving the highest standards in my results.
+My passion for Machine Learning and Deep Learning is a driving force in my work. I am deeply committed to achieving excellence in my results, and this passion fuels my dedication to maintaining the highest standards in all my professional endeavors.
 
-Outside of work, I take pleasure in discovering new technologies and keeping abreast of the latest trends in the industry.</p>
+Beyond the confines of my professional life, I am an avid explorer of new technologies. I take great pleasure in staying updated with the latest trends and advancements in the industry. This continuous learning not only enhances my skills but also keeps me motivated and excited about the work I do.</p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdelrhman-arnos&theme=dark&margin-w=10&title=MultiLanguage,Commits,PullRequest,Repositories,Followers,Issues" alt="Github Profile Trophy" />
