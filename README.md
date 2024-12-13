@@ -1,11 +1,8 @@
 <h2>Hey there! <img width="20" src="./Hi.gif" /></h2>
 
-<p>My name is Abdelrhman Arnos, a technically proficient technical lead, skilled software engineer, and an individual with a keen interest in artificial intelligence.
-With over 8 years of experience in the field of web development, I have amassed a wealth of knowledge and expertise in various facets of software development. My journey in this industry has been marked by consistent leadership, guiding teams towards the creation of top-tier software products that meet and exceed expectations.
+<p>My name is Abdelrhman Arnos!</p>
 
-My passion for Machine Learning and Deep Learning is a driving force in my work. I am deeply committed to achieving excellence in my results, and this passion fuels my dedication to maintaining the highest standards in all my professional endeavors.
-
-Beyond the confines of my professional life, I am an avid explorer of new technologies. I take great pleasure in staying updated with the latest trends and advancements in the industry. This continuous learning not only enhances my skills but also keeps me motivated and excited about the work I do.</p>
+<p>Driven by a passion for innovation, I bring over eight years of cross-functional experience in software development, technical leadership, and architectural design. Currently pursuing an MSc in Computer Science at the University of East London, I continue to expand my skill set to bridge technology and business objectives seamlessly. I am committed to leveraging emerging technologies particularly machine learning and cloud architectures to drive innovation, operational excellence, and measurable business outcomes.</p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdelrhman-arnos&theme=dark&margin-w=10&title=MultiLanguage,Commits,PullRequest,Repositories,Followers,Issues" alt="Github Profile Trophy" />
