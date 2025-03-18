@@ -1,8 +1,11 @@
 <h2>Hey there! <img width="20" src="./Hi.gif" /></h2>
 
-<p>My name is Abdelrhman Arnos, a technically proficient solution architect and technical lead, backed by strong software engineering expertise and a keen interest in artificial intelligence.</p>
-
-<p>Driven by a passion for innovation, I bring over eight years of cross-functional experience in software development, technical leadership, and architectural design. Currently pursuing an MSc in Computer Science at the University of East London, I continue to expand my skill set to bridge technology and business objectives seamlessly. I am committed to leveraging emerging technologies particularly machine learning and cloud architectures to drive innovation, operational excellence, and measurable business outcomes.</p>
+<p>My name is Abdelrhman Arnos. A highly accomplished technical leader and solution architect with over eight years of experience architecting and delivering
+scalable, cloud-native software solutions. Extensive background in software architecture, cloud platforms, and AI-driven
+solutions, leading diverse engineering teams, and mentoring engineers to deliver robust technical strategies aligned with
+business goals. Currently pursuing an MSc in Computer Science, specializing in Advanced Software Engineering, Big Data
+Analytics, Artificial Intelligence & Machine Vision, and Cloud Computing, driving innovation and digital transformation
+through continuous learning and strategic leadership.</p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdelrhman-arnos&theme=dark&margin-w=10&title=MultiLanguage,Commits,PullRequest,Repositories,Followers,Issues" alt="Github Profile Trophy" />
