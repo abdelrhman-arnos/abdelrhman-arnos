@@ -1,11 +1,6 @@
 <h2>Hey there! <img width="20" src="./Hi.gif" /></h2>
 
-<p>My name is Abdelrhman Arnos. A highly accomplished technical leader and solution architect with over eight years of experience architecting and delivering
-scalable, cloud-native software solutions. Extensive background in software architecture, cloud platforms, and AI-driven
-solutions, leading diverse engineering teams, and mentoring engineers to deliver robust technical strategies aligned with
-business goals. Currently pursuing an MSc in Computer Science, specializing in Advanced Software Engineering, Big Data
-Analytics, Artificial Intelligence & Machine Vision, and Cloud Computing, driving innovation and digital transformation
-through continuous learning and strategic leadership.</p>
+<p>An accomplished Engineering Leader with over nine years of experience managing, mentoring, and scaling high-performing software engineering teams. Proven expertise in Agile transformation, technical strategy, talent acquisition, and aligning engineering initiatives with strategic business outcomes. Currently pursuing an MSc in Computer Science, specializing in Advanced Software Engineering, Cloud Computing, and Artificial Intelligence, dedicated to driving innovation and organizational excellence through strategic leadership and continuous improvement..</p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdelrhman-arnos&theme=dark&margin-w=10&title=MultiLanguage,Commits,PullRequest,Repositories,Followers,Issues" alt="Github Profile Trophy" />
