@@ -1,6 +1,6 @@
 <h2>Hey there! <img width="20" src="./Hi.gif" /></h2>
 
-<p>An accomplished Engineering Leader with over nine years of experience managing, mentoring, and scaling high-performing software engineering teams. Proven expertise in Agile transformation, technical strategy, talent acquisition, and aligning engineering initiatives with strategic business outcomes. Currently pursuing an MSc in Computer Science, specializing in Advanced Software Engineering, Cloud Computing, and Artificial Intelligence, dedicated to driving innovation and organizational excellence through strategic leadership and continuous improvement..</p>
+<p>Accomplished Engineering Manager and Solutions Architect with 11+ years of hands-on experience leading high-performing global engineering teams. Proven track record of aligning engineering strategy with business goals, accelerating Agile transformations, and cultivating innovation and psychological safety. Currently pursuing an MSc in Computer Science to drive next-generation digital transformation initiatives.</p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdelrhman-arnos&theme=dark&margin-w=10&title=MultiLanguage,Commits,PullRequest,Repositories,Followers,Issues" alt="Github Profile Trophy" />
