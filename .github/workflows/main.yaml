@@ -17,10 +17,8 @@ jobs:
       - name: Metrics 1
         uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
           filename: metrics1.svg
           user: abdelrhman-arnos
           base: header, activity, repositories, metadata
@@ -43,17 +41,14 @@ jobs:
           plugin_lines: yes
 
           plugin_notable: yes
-          # plugin_notable_filter: stars:>100
           plugin_notable_from: organization
           plugin_notable_indepth: yes
 
       - name: Metrics 2
         uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
           filename: metrics2.svg
           user: abdelrhman-arnos
           base: ''
